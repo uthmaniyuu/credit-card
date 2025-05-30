@@ -23,7 +23,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - label: Get started
+      - label: Go
         altText: ''
         url: /
         showIcon: false
