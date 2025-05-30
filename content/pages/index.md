@@ -166,6 +166,16 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://pinpoint710086024.o18a.com/c?o=21648875&m=25370&a=677210&aff_click_id={replace_it}&sub_aff_id={replace_it}
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: Get started
         altText: ''
         url: /
