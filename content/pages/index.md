@@ -366,7 +366,7 @@ sections:
       posts.
     actions:
       - label: Get started
-        url: /
+        url: 'https://nx2bs.com/c?o=338&a=17657'
         icon: arrowRight
         iconPosition: right
         style: secondary
